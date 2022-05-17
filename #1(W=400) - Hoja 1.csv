@@ -1,0 +1,17 @@
+NODOA,NODOB,Distancia
+Nodo1,Nodo2,2305
+Nodo1,Nodo3,1241
+Nodo1,Nodo4,2117
+Nodo2,Nodo5,1149
+Nodo2,Nodo6,1032
+Nodo3,Nodo2,1157
+Nodo3,Nodo4,1430
+Nodo3,Nodo6,1969
+Nodo4,Nodo6,1293
+Nodo4,Nodo7,539
+Nodo5,Nodo8,787
+Nodo6,Nodo5,1181
+Nodo6,Nodo8,2453
+Nodo6,Nodo7,945
+Nodo7,Nodo8,1435
+Nodo1,Nodo6,400
